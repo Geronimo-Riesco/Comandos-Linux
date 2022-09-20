@@ -28,3 +28,5 @@
     rmdir dir1
 
 * clear : Limpio la consola
+
+* pwd :  localizar la ruta del directorio de trabajo en el que te encuentras
